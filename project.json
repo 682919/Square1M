@@ -1,0 +1,10 @@
+{
+    "name": "Square1M",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Square1M.xml",
+    "author": "682919",
+    "minimum_firmware_version": 42
+}
