@@ -4,14 +4,14 @@
       <block type="controls_repeat" id="11" inline="true">
         <value name="TIMES">
           <block type="math_number" id="18">
-            <field name="NUM">4</field>
+            <field name="NUM">2</field>
           </block>
         </value>
         <statement name="DO">
           <block type="robot_delay" id="2" inline="true">
             <value name="DELAY">
               <block type="math_number" id="3">
-                <field name="NUM">2510</field>
+                <field name="NUM">5000</field>
               </block>
             </value>
           </block>
